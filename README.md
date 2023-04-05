@@ -21,7 +21,7 @@ Bu sorunun çözümünde verilen dört işlevsel bağımlılık ```(AB -> C, BC 
 
 Ayrıca, bu ilişkinin anahtarları AB, AD, BC ve CD’dir. Bu nedenle, sol tarafında bu anahtarların biri olmayan herhangi bir işlevsel bağımlılık BCNF ihlalidir. Ancak, verilen FD’lerin hepsinde sol taraf bir anahtar olduğu için BCNF ihlali yoktur.
 
-#
+<hr>
 
 BCNF (Boyce-Codd Normal Form) ve 3NF (Third Normal Form) her ikisi de veritabanı tasarımı yöntemleridir. Her ikisi de veritabanındaki tekrarları azaltmayı ve veri tutarlılığını sağlamayı amaçlar.
 
